@@ -1,0 +1,26 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#f0f0f0">
+      <mj-column>
+        <mj-text font-style="italic" font-size="20px" color="#626262">Une carte de voeux</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section   background-url="https://c.pxhere.com/photos/52/99/ireland_dublin_architecture_bridge_city_black_white_town_center_destination-1376939.jpg!d" background-size="cover" background-repeat="no-repeat">
+      <mj-column width="600px">
+        <mj-text align="center" color="#fff" font-size="40px" font-family="Helvetica Neue">David Corp</mj-text>
+
+      </mj-column>
+    </mj-section>
+        <mj-section background-color="#fafafa">
+          <mj-column width="400px">
+            <mj-text font-style="italic" font-size="20px" font-family="Helvetica Neue" color="#626262">Un petit mot pour cette fin d'année</mj-text>
+      <mj-text color="#525252"> En cette fin d'année je suis très heureux de vous faire parvenir cette petite carte de voeux</mj-text>
+          </mj-column>
+        </mj-section >
+      <mj-column>
+
+        <mj-image  src="https://zenserveur.000webhostapp.com/images/wishcard.svg"></mj-image>
+      </mj-column>
+
+  </mj-body>
+</mjml>
